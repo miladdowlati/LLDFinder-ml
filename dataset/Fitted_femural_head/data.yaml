@@ -1,0 +1,8 @@
+path: C:\Users\Dolati\Desktop\PathoFinder\AIAlignment\Development/3.00. femoral-head-dataset/Fitted_femural_head/ 
+train: train/images/ 
+val: val/images/ 
+test: test/images/ 
+
+kpt_shape: [1, 2] 
+names:
+   0: Fitted_femural_head
