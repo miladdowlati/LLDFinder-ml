@@ -1,4 +1,4 @@
-path: C:\Users\Dolati\Desktop\PathoFinder\AIAlignment\Development/3.00. femoral-head-dataset/Fitted_femural_head/ 
+path: D:\Milad_vision\LLDFinder-ml\dataset\Fitted_femural_head
 train: train/images/ 
 val: val/images/ 
 test: test/images/ 
